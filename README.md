@@ -1,5 +1,7 @@
 # A-Simple-Approximation-Algorithm-for-Weighted-Matching-Problem
 
+## This is algorithm implemented from the paper. This is implemented in java language. This is simple java implementation and can be improved further.
+
 A graph is a made up of Edges and Vertices. The code uses Edge class to represent
 the edges between the nodes in a graph.
 The Edge class has following functions:
